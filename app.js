@@ -1,6 +1,3 @@
-# 发现支付宝的小程序貌似不能像微信小程序一样单页面调试，每次都要手动点，很麻烦
-## 直接粘贴到项目根目录的app.js里
-
 App({
   onLaunch(options) {
     if (options.query) {
