@@ -19,3 +19,7 @@ App({
   }
 })
 ```
+![image](https://github.com/tihssiefiL/Alipay-Mini-Programs-debug-single-page-component/blob/master/image/1.jpg)
+![image](https://github.com/tihssiefiL/Alipay-Mini-Programs-debug-single-page-component/blob/master/image/2.jpg)
+![image](https://github.com/tihssiefiL/Alipay-Mini-Programs-debug-single-page-component/blob/master/image/3.jpg)
+![image](https://github.com/tihssiefiL/Alipay-Mini-Programs-debug-single-page-component/blob/master/image/4.jpg)
