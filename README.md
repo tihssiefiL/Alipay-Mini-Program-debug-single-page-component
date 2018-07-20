@@ -8,7 +8,7 @@ App({
       for (let i in options.query) {
         query = i
       }
-      let url = '/pages/' + query.trim() + '/' + query.trim()
+      let url = '/pages/' + query.trim() + '/' + query.trim()//根据实际情况可能这里需要改为=>'/pages/' + query.trim() + '/' + 'index'
       my.navigateTo ({
         url, 
         success: (res) => {
